@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "kapil kaumar",
+      "age": "21",
+      "sex": "male",
+      "id": 1
+    },
+    {
+      "name": "joity updated",
+      "age": "25",
+      "sex": "female",
+      "id": 3
+    }
+  ]
+}
