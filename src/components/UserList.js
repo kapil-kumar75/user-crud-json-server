@@ -41,7 +41,7 @@ const UserList = () => {
     
         {
             users && users.map((user,i)=>(
-                <tr>
+                <tr key={i}>
                 <th scope="row">{user?.id}</th>
                 <td>{user?.name}</td>
                 <td>{user?.age}</td>
