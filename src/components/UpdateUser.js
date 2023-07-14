@@ -38,7 +38,7 @@ const UpdateUser = () => {
   return (
     <div>
         <div className='container col-md-4 border mt-4 shadow p-3 mb-5 bg-white rounder '>
-            <h4 className='text-center' >Create User</h4>
+            <h4 className='text-center' >Update User</h4>
             <form onSubmit={handleSubmit}>
                     <div className='mb-2'>
                         <label className='form-label'>Name</label>
